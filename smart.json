@@ -3,9 +3,9 @@
   "description": "SHA256 algo for CryptoJS, standard secure crypto algorithms. Based on the SHA1 package by Dan Dascalescu.",
   "homepage"   : "https://github.com/pagebakers/meteor-crypto-sha256",
   "author"     : "Eelco Wiersma <eelco@pagebakers.nl> (http://www.pagebakers.nl)",
-  "version"    : "3.1.2.1",
+  "version"    : "3.1.2.2",
   "git"        : "https://github.com/Pagebakers/meteor-crypto-sha256.git",
   "packages"   : {
-    "crypto-base": "3.1.2.1"
+    "crypto-base": "3.1.2.x"
   }
 }
